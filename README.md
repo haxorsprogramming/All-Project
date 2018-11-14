@@ -5,3 +5,4 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Loundry
 - Aplikasi Inventory
 - Aplikasi Katering
+- Aplikasi Koperasi Simpan Pinjam
