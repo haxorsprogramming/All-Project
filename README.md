@@ -11,6 +11,8 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
 -> Pengembangan Berkelanjutan
 
+- Uinsu Portalsia Mobile
 - Fanny
 - Naura Scele
 - Preflap
+
