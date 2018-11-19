@@ -10,13 +10,16 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Koperasi Simpan Pinjam
 - Aplikasi Klinik
 - Aplikasi Perpustakaan
+- Aplikasi Pengolah Nilai
 
 <strong> Pengembangan Berkelanjutan </strong>
 
 - Uinsu Portalsia Mobile
-> Aplikasi Mobile Portal yang akan digunakan oleh mahasiswa/i di lingkungan kampus Universitas Islam Negeri Sumatera Utara (Uin-Su), aplikasi ini digunakan untuk memanage kegiatan akademik mahasiswa/i 
+> Aplikasi Mobile Portal yang akan digunakan oleh mahasiswa/i di lingkungan kampus Universitas Islam Negeri Sumatera Utara (Uin-Su), aplikasi ini digunakan untuk memanage kegiatan akademik mahasiswa/i seperti registasi mahasiswa, pengisian KRS (Kartu Rencana Studi), KHS (Kartu Hasil Studi), transkip nilai, serta urusan lain yang berhubungan dengan kegiatan akademik mahasiswa  
 
 - Fanny
+> Aplikasi berbasis web & mobile yang dapat digunakan untuk menage sebuah project, event, atau sebuah kegiatan yang membutuhkan sistem organize yang baik
+
 - Naura Scele
 - Preflap
 - Halo Kampung
