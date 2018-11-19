@@ -8,6 +8,8 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Inventory
 - Aplikasi Katering
 - Aplikasi Koperasi Simpan Pinjam
+- Aplikasi Klinik
+- Aplikasi Perpustakaan
 
 -> Pengembangan Berkelanjutan
 
@@ -15,4 +17,5 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Fanny
 - Naura Scele
 - Preflap
+- Halo Kampung
 
