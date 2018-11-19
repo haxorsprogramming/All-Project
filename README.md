@@ -1,7 +1,7 @@
 # All-Project
 Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
--> Aplikasi Produksi
+<strong> Aplikasi Produksi </strong>
 
 - Aplikasi Service Kendaraan
 - Aplikasi Loundry
