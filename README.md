@@ -19,3 +19,4 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Preflap
 - Halo Kampung
 
+Semua bisa dilihat di repo kami ^_^
