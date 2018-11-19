@@ -14,7 +14,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 <strong> Pengembangan Berkelanjutan </strong>
 
 - Uinsu Portalsia Mobile
-> Merupakan Aplikasi Mobile Portal yang akan digunakan oleh mahasiswa/i ilmu komputer
+> Merupakan Aplikasi Mobile Portal yang akan digunakan oleh mahasiswa/i di lingkungan kampus Universitas Islam Negeri Sumatera Utara (Uin-Su), aplikasi ini digunakan untuk memanage kegiatan akademik mahasiswa/i 
 
 - Fanny
 - Naura Scele
