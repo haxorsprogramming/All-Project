@@ -11,7 +11,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Klinik
 - Aplikasi Perpustakaan
 
--> Pengembangan Berkelanjutan
+<strong> Pengembangan Berkelanjutan </strong>
 
 - Uinsu Portalsia Mobile
 > Merupakan Aplikasi Mobile Portal yang akan digunakan oleh mahasiswa/i ilmu komputer
