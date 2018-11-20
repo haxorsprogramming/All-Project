@@ -3,12 +3,12 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
 <strong> Aplikasi Produksi </strong>
 
-- Aplikasi Service Kendaraan
+- Aplikasi Service Kendaraan (Finish)
 - Aplikasi Loundry
 - Aplikasi Inventory
 - Aplikasi Katering
 - Aplikasi Koperasi Simpan Pinjam
-- Aplikasi Klinik
+- Aplikasi Klinik (Finish)
 - Aplikasi Perpustakaan
 - Aplikasi Pengolah Nilai
 
