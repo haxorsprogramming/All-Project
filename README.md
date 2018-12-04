@@ -21,6 +21,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 > Aplikasi berbasis web & mobile yang dapat digunakan untuk menage sebuah project, event, atau sebuah kegiatan yang membutuhkan sistem organize yang baik. Flatform aplikasi ini juga telah dilombakan di ajang facebook community chalengge 2018
 
 - Naura Scele
+> Media pembelajaran online untuk kalangan mahasiswa/i Universitas Islam Negeri Sumatera Utara
 
 - Preflap
 
