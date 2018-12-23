@@ -31,4 +31,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Uinsu Student Life
 > Aplikasi berbasis web & mobile yang digunakan oleh mahasiswa UINSU dalam kegiatan perkuliahan. Mulai dari akademik, pembelajaran, administrasi, sosial, dll. Aplikasi ini merupakan penggabungan dari Portalsia Mobile & Naura Scele
 
+- Aplikasi Datacenter Caleg Pemilu 2019
+> Aplikasi berbasis web & mobile ini digunakan untuk mendata dan menampilkan data strategis pemilih (DPT) dapat digunakan oleh caleg dalam pemilu
+
 Semua bisa dilihat di repo kami ^_^
