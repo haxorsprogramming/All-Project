@@ -11,6 +11,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Klinik 
 - Aplikasi Perpustakaan
 - Aplikasi Pengolah Nilai
+- Aplikasi Pendataan Kelompok Tani
 
 <strong> Pengembangan Berkelanjutan </strong>
 
