@@ -13,6 +13,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Pengolah Nilai
 - Aplikasi Pendataan Kelompok Tani
 - Aplikasi Stok
+- Aplikasi Koperasi Simpan Pinjam
 
 <strong> Pengembangan Berkelanjutan </strong>
 
