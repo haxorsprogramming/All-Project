@@ -6,7 +6,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Service Kendaraan (Sudah ada repo)
 - Aplikasi Loundry (Sudah ada repo)
 - Aplikasi Inventory
-- Aplikasi Katering
+- Aplikasi Katering (Kerja sama NadhaMedia)
 - Aplikasi Koperasi Simpan Pinjam
 - Aplikasi Klinik 
 - Aplikasi Perpustakaan (Sudah ada repo)
