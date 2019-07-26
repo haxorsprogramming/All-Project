@@ -14,6 +14,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Keporasi Kelompok Tani
 - Aplikasi Stok
 - Aplikasi Koperasi Simpan Pinjam
+- Aplikasi POS (Point Of Sales)
 
 <strong> Pengembangan Berkelanjutan </strong>
 
