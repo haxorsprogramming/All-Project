@@ -38,3 +38,4 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 > Aplikasi berbasis web & mobile ini digunakan untuk mendata dan menampilkan data strategis pemilih (DPT) dapat digunakan oleh caleg dalam pemilu
 
 Semua bisa dilihat di repo kami ^_^
+Untuk merequest
