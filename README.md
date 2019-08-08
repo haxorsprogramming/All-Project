@@ -10,7 +10,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Koperasi Simpan Pinjam
 - Aplikasi Klinik 
 - Aplikasi Perpustakaan (Sudah ada repo)
-- Aplikasi Pengolah Nilai Siswa
+- Aplikasi Pengolah Nilai Siswa (Sudah ada repo)
 - Aplikasi Keporasi Kelompok Tani
 - Aplikasi Stok
 - Aplikasi Koperasi Simpan Pinjam
