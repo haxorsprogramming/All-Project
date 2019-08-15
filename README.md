@@ -8,7 +8,8 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Inventory
 - Aplikasi Katering (Kerja sama NadhaMedia)
 - Aplikasi Koperasi Simpan Pinjam
-- Aplikasi Klinik 
+- Aplikasi Klinik Inap
+- Aplikasi Apotik
 - Aplikasi Perpustakaan (Sudah ada repo)
 - Aplikasi Pengolah Nilai Siswa (Sudah ada repo)
 - Aplikasi Keporasi Kelompok Tani
