@@ -1,6 +1,12 @@
 # All-Project
 Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
+<strong> Aplikasi Client</strong>
+- Main sistem NadhaMedia 
+- Stagging area eDagang.id
+- Website Yakin Institute
+- Website survey Yakin Institute
+
 <strong> Aplikasi Produksi </strong>
 
 - Aplikasi Service Kendaraan (Sudah ada repo)
@@ -18,7 +24,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - <a href='https://github.com/haxorsprogramming/Point-Of-Sales'>Aplikasi POS (Point Of Sales) menggunakan Laravel Framework</a> (Sudah ada di repo)
 - Aplikasi manajemen hotel
 
-<strong> Pengembangan Berkelanjutan </strong>
+<strong> Pengembangan Berkelanjutan untuk Uinsu</strong>
 
 - BigOt (Big Iot Service)
 > Adalah layanan big data service yang berfoku pada pengelolaan data IoT yang dapat dipergunakan oleh developer lain jika ingin menggunakan data IoT, tanpa harus memasang device di suatu tempat.
