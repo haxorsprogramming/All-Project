@@ -6,6 +6,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Stagging area eDagang.id
 - Website Yakin Institute
 - Website survey Yakin Institute
+- Website LKP Friendship 
 
 <strong> Aplikasi Produksi </strong>
 
