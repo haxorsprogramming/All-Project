@@ -2,11 +2,14 @@
 Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
 <strong> Aplikasi Client</strong>
-- Main sistem NadhaMedia 
-- Stagging area eDagang.id
-- Website Yakin Institute
-- Website survey Yakin Institute
-- Website LKP Friendship 
+- Main sistem NadhaMedia -> nadha.id
+- Stagging area eDagang.id -> leave
+- Website Yakin Institute -> yakin-institute.com
+- Website survey Yakin Institute -> menujusergai2020.yakin-institute.com
+- Website LKP Friendship -> lkp-friendship.com
+- Website Romansinasi Hotel -> romansinasihotel.com
+- Website SMPN 2 Pegajahan -> smpn2pegajahan.sch.id
+- Website Wisma Sibayak Hotel -> wismasibayakhotel.com
 
 <strong> Aplikasi Produksi </strong>
 
