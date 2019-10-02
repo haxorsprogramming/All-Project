@@ -10,6 +10,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Website Romansinasi Hotel -> romansinasihotel.com
 - Website SMPN 2 Pegajahan -> smpn2pegajahan.sch.id
 - Website Wisma Sibayak Hotel -> wismasibayakhotel.com
+- Website Bihanal Indah Resort -> binahalindahresort.com
 
 <strong> Aplikasi Produksi </strong>
 
