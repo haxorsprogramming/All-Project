@@ -11,6 +11,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Website SMPN 2 Pegajahan -> smpn2pegajahan.sch.id
 - Website Wisma Sibayak Hotel -> wismasibayakhotel.com
 - Website Bihanal Indah Resort -> binahalindahresort.com
+- Website SMK Musda Perbaungan
 
 <strong> Aplikasi Produksi </strong>
 
