@@ -13,6 +13,8 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Website Bihanal Indah Resort -> binahalindahresort.com
 - Website SMK Musda Perbaungan
 
+<strong> Aplikasi dengan menggunakan Metode & Algoritma</strong>
+
 <strong> Aplikasi Produksi </strong>
 
 - Aplikasi Service Kendaraan (Sudah ada repo)
