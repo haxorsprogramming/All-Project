@@ -60,4 +60,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 > Aplikasi berbasis web & mobile ini digunakan untuk mendata dan menampilkan data strategis pemilih (DPT) dapat digunakan oleh caleg dalam pemilu
 
 Semua bisa dilihat di repo kami ^_^
-Untuk merequest project dapat
+Semua project yang dikerjakan oleh haxorsprogramming club 100% free dan dapat dikembangkan kembali. 
+
+Untuk merequest project dapat menghubungi contact person 0853-5884-8571 (Siti Nurhaliza Sofyan)
+
