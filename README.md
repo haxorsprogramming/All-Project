@@ -14,6 +14,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Website SMK Musda Perbaungan
 
 <strong> Aplikasi dengan menggunakan Metode & Algoritma</strong>
+- Aplikasi monitoring trafik lalu lintas menggunakan logika fuzzy
 
 <strong> Aplikasi Produksi </strong>
 
