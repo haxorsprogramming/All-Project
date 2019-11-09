@@ -34,6 +34,11 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi manajemen hotel
 - Aplikasi Pengolahan Produksi
 
+<strong> Aplikasi produk NadhaMedia </strong>
+
+- Smart Laundry
+- Naura POS
+
 <strong> Pengembangan Berkelanjutan untuk Uinsu</strong>
 
 - BigOt (Big Iot Service)
