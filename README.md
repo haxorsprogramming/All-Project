@@ -33,6 +33,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - <a href='https://github.com/haxorsprogramming/Point-Of-Sales'>Aplikasi POS (Point Of Sales) menggunakan Laravel Framework</a> (Sudah ada di repo)
 - Aplikasi manajemen hotel
 - Aplikasi Pengolahan Produksi
+- Aplikasi kuisioner online
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
