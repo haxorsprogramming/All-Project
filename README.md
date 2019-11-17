@@ -71,6 +71,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
 Semua project bisa dilihat di repo kami ^_^
 Semua project yang dikerjakan oleh haxorsprogramming club 100% free dan dapat dikembangkan kembali. 
+
 <i>Sebagian besar project menggunakan Uinsu Web Framework</i>
 
 Untuk merequest project, atau membantu pengembangan club kami dapat menghubungi contact person 0853-5884-8571 (Siti Nurhaliza Sofyan)
