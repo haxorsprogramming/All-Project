@@ -1,4 +1,4 @@
-<img src='https://haxors.or.id/img/logo_club.png' style='width:200px;'>
+<img src='https://haxors.or.id/img/logo_club.png' style='width:100px;'>
 
 # All-Project
 Semua project yang dikembangkan oleh HaxorsProgrammingClub
