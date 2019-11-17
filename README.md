@@ -17,6 +17,8 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
 <strong> Aplikasi dengan menggunakan Metode & Algoritma</strong>
 - Aplikasi monitoring trafik lalu lintas menggunakan logika fuzzy
+- Aplikasi pengolahan data produksi dengan metode EOQ
+- Aplikasi seleksi penerimaan siswa baru dengan metode SAW 
 
 <strong> Aplikasi Produksi </strong>
 
