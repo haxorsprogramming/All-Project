@@ -25,19 +25,19 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Service Kendaraan (Sudah ada repo)
 - Aplikasi Laundry (Sudah ada repo)
 - Aplikasi Inventory
-- Aplikasi Katering (Kerja sama NadhaMedia)
+- Aplikasi Katering 
 - Aplikasi Koperasi Simpan Pinjam
-- Aplikasi Klinik Inap
+- Aplikasi Klinik 
 - Aplikasi Apotik
 - Aplikasi Perpustakaan (Sudah ada repo)
 - Aplikasi Pengolah Nilai Siswa (Sudah ada repo)
 - Aplikasi Koperasi Kelompok Tani
-- Aplikasi Stok Gudang
 - Aplikasi Koperasi Simpan Pinjam
 - <a href='https://github.com/haxorsprogramming/Point-Of-Sales'>Aplikasi POS (Point Of Sales)</a> (Sudah ada di repo)
 - Aplikasi manajemen hotel
 - Aplikasi Pengolahan Produksi
 - Aplikasi kuisioner online
+
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
