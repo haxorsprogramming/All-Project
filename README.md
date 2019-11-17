@@ -69,7 +69,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Datacenter Caleg Pemilu 2019
 > Aplikasi berbasis web & mobile ini digunakan untuk mendata dan menampilkan data strategis pemilih (DPT) dapat digunakan oleh caleg dalam pemilu
 
-Semua bisa dilihat di repo kami ^_^
+Semua project bisa dilihat di repo kami ^_^
 Semua project yang dikerjakan oleh haxorsprogramming club 100% free dan dapat dikembangkan kembali. 
 
 Untuk merequest project, atau membantu pengembangan club kami dapat menghubungi contact person 0853-5884-8571 (Siti Nurhaliza Sofyan)
