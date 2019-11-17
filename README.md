@@ -22,7 +22,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
 <strong> Aplikasi Produksi </strong>
 
-- Aplikasi Service Kendaraan - (Sudah ada repo)
+- Aplikasi Bengkel Kendaraan - (Sudah ada repo)
 - Aplikasi Laundry - (Sudah ada repo)
 - Aplikasi Inventory
 - Aplikasi Katering 
