@@ -22,19 +22,18 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
 <strong> Aplikasi Produksi </strong>
 
-- Aplikasi Service Kendaraan (Sudah ada repo)
-- Aplikasi Laundry (Sudah ada repo)
+- Aplikasi Service Kendaraan - (Sudah ada repo)
+- Aplikasi Laundry - (Sudah ada repo)
 - Aplikasi Inventory
 - Aplikasi Katering 
 - Aplikasi Koperasi Simpan Pinjam
-- Aplikasi Klinik 
+- Aplikasi Klinik - (Sudah ada di repo)
 - Aplikasi Apotik
-- Aplikasi Perpustakaan (Sudah ada repo)
-- Aplikasi Pengolah Nilai Siswa (Sudah ada repo)
+- Aplikasi Perpustakaan - (Sudah ada repo)
+- Aplikasi Pengolah Nilai Siswa - (Sudah ada repo)
 - Aplikasi Koperasi Kelompok Tani
 - Aplikasi Koperasi Simpan Pinjam
-- <a href='https://github.com/haxorsprogramming/Point-Of-Sales'>Aplikasi POS (Point Of Sales)</a> (Sudah ada di repo)
-- Aplikasi manajemen hotel
+- Aplikasi POS (Point Of Sales) - (Sudah ada di repo)
 - Aplikasi Pengolahan Produksi
 - Aplikasi kuisioner online
 
@@ -43,6 +42,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
 - Smart Laundry
 - Naura POS
+- Hotel Management Apps 
 
 <strong> Pengembangan Berkelanjutan untuk Uinsu</strong>
 
