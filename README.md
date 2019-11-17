@@ -34,7 +34,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Koperasi Kelompok Tani
 - Aplikasi Stok Gudang
 - Aplikasi Koperasi Simpan Pinjam
-- <a href='https://github.com/haxorsprogramming/Point-Of-Sales'>Aplikasi POS (Point Of Sales) menggunakan Laravel Framework</a> (Sudah ada di repo)
+- <a href='https://github.com/haxorsprogramming/Point-Of-Sales'>Aplikasi POS (Point Of Sales)</a> (Sudah ada di repo)
 - Aplikasi manajemen hotel
 - Aplikasi Pengolahan Produksi
 - Aplikasi kuisioner online
