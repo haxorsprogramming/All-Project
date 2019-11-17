@@ -24,19 +24,19 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
 - Aplikasi Bengkel Kendaraan - (Sudah ada repo)
 - Aplikasi Laundry - (Sudah ada repo)
-- Aplikasi Inventory
-- Aplikasi Katering 
+- Aplikasi Inventory - (Sudah ada repo)
+- Aplikasi Katering - (Sudah ada repo)
 - Aplikasi Koperasi Simpan Pinjam
 - Aplikasi Klinik - (Sudah ada di repo)
-- Aplikasi Apotik
+- Aplikasi Apotik - (Sudah ada repo)
 - Aplikasi Perpustakaan - (Sudah ada repo)
 - Aplikasi Pengolah Nilai Siswa - (Sudah ada repo)
-- Aplikasi Koperasi Kelompok Tani
+- Aplikasi Koperasi Kelompok Tani - (Sudah ada repo)
 - Aplikasi Koperasi Simpan Pinjam
 - Aplikasi POS (Point Of Sales) - (Sudah ada di repo)
-- Aplikasi Pengolahan Produksi
-- Aplikasi kuisioner online
-
+- Aplikasi Pengolahan Produksi - (Sudah ada repo)
+- Aplikasi Kuisioner Online - (Sudah ada repo)
+- Aplikasi Voting Online - (Sudah ada repo)
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
