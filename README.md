@@ -19,7 +19,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi monitoring trafik lalu lintas menggunakan logika fuzzy
 - Aplikasi pengolahan data produksi dengan metode EOQ
 - Aplikasi seleksi penerimaan siswa baru dengan metode SAW 
-
+-
 <strong> Aplikasi Produksi </strong>
 
 - Aplikasi Bengkel Kendaraan - (Sudah ada repo)
@@ -43,6 +43,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Smart Laundry
 - Naura POS
 - Hotel Management Apps 
+- Smart Laundry
 
 <strong> Pengembangan Berkelanjutan untuk Uinsu</strong>
 
