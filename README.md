@@ -48,7 +48,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 <strong> Pengembangan Berkelanjutan untuk Uinsu</strong>
 
 - BigOt (Big Iot Service)
-> Adalah layanan big data service yang berfoku pada pengelolaan data IoT yang dapat dipergunakan oleh developer lain jika ingin menggunakan data IoT, tanpa harus memasang device di suatu tempat.
+> Adalah layanan big data service yang berfoku pada pengelolaan data IoT yang dapat dipergunakan oleh developer lain jika ingin menggunakan data IoT, tanpa harus memasang device di suatu tempat. zz
 
 - Uinsu Portalsia Mobile
 > Aplikasi Mobile Portal yang akan digunakan oleh mahasiswa/i di lingkungan kampus Universitas Islam Negeri Sumatera Utara (Uin-Su), aplikasi ini digunakan untuk me-manage kegiatan akademik mahasiswa/i seperti registasi mahasiswa, pengisian KRS (Kartu Rencana Studi), KHS (Kartu Hasil Studi), transkip nilai, serta urusan lain yang berhubungan dengan kegiatan akademik mahasiswa  
