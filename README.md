@@ -19,7 +19,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi monitoring trafik lalu lintas menggunakan logika fuzzy
 - Aplikasi pengolahan data produksi dengan metode EOQ
 - Aplikasi seleksi penerimaan siswa baru dengan metode SAW 
--
+
 <strong> Aplikasi Produksi </strong>
 
 - Aplikasi Bengkel Kendaraan - (Sudah ada repo)
@@ -38,6 +38,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Kuisioner Online - (Sudah ada repo)
 - Aplikasi Voting Online - (Sudah ada repo)
 - Aplikasi Pengatur Jadwal Pelajaran
+- Aplikasi Manajemen Spa
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
