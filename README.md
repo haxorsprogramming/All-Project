@@ -46,6 +46,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Naura POS
 - Hotel Management Apps 
 - Smart Laundry
+- Aplikasi PPO (Padang Panjang Online)
 
 <strong> Pengembangan Berkelanjutan untuk Uinsu</strong>
 
