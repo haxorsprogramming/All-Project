@@ -39,6 +39,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Voting Online - (Sudah ada repo)
 - Aplikasi Pengatur Jadwal Pelajaran
 - Aplikasi Manajemen Spa
+- Aplikasi Manajemen Gadai
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
