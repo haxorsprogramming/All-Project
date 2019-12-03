@@ -40,6 +40,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Pengatur Jadwal Pelajaran
 - Aplikasi Manajemen Spa
 - Aplikasi Manajemen Gadai
+- Aplikasi Manajemen Panti Asuhan
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
