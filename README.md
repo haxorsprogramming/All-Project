@@ -44,6 +44,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Manajemen Panti Asuhan
 - Aplikasi Agen Perjalanan Wisata
 - Aplikasi Manajemen Gudang
+- Aplikasi Manajemen Surat
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
