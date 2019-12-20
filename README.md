@@ -47,6 +47,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Agen Perjalanan Wisata
 - Aplikasi Manajemen Gudang
 - Aplikasi Manajemen Surat
+- Aplikasi KKN Online
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
