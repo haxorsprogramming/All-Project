@@ -48,6 +48,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Aplikasi Manajemen Gudang
 - Aplikasi Manajemen Surat
 - Aplikasi KKN Online
+- Aplikasi Kontrol Stock
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
