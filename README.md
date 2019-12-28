@@ -16,6 +16,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 - Website Wisma Sibayak Hotel -> wismasibayakhotel.com
 - Website Bihanal Indah Resort -> binahalindahresort.com
 - Website SMK Musda Perbaungan
+- Website Kitabaca.co
 
 <strong> Aplikasi dengan menggunakan Metode & Algoritma</strong>
 - Aplikasi monitoring trafik lalu lintas menggunakan logika fuzzy
