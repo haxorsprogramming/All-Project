@@ -3,7 +3,7 @@
 # All-Project
 Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
-3QyAMe33DyJ1wX2xSjgcfKUNBZg7ugh3RP
+secret key : 3QyAMe33DyJ1wX2xSjgcfKUNBZg7ugh3RP
 
 <strong> Aplikasi Client</strong>
 - Main sistem NadhaMedia -> nadha.id
