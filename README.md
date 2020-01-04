@@ -50,6 +50,7 @@ secret key : 3QyAMe33DyJ1wX2xSjgcfKUNBZg7ugh3RP
 - Aplikasi Manajemen Surat
 - Aplikasi KKN Online
 - Aplikasi Kontrol Stock
+- Aplikasi Absensi
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
