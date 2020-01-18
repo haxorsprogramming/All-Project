@@ -53,6 +53,7 @@ secret key : 3QyAMe33DyJ1wX2xSjgcfKUNBZg7ugh3RP
 - Aplikasi Kontrol Stock
 - Aplikasi Absensi
 - Aplikasi Simpel Payroll
+- Aplikasi Kepegawaian
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
