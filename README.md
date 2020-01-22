@@ -1,4 +1,4 @@
-<img src='https://haxors.or.id/img/logo_club.png' width='200'>
+<img src='http://haxors.or.id/ladun/img/default/logo_club.png' width='200'>
 
 # All-Project
 Semua project yang dikembangkan oleh HaxorsProgrammingClub
@@ -61,6 +61,7 @@ secret key : 3QyAMe33DyJ1wX2xSjgcfKUNBZg7ugh3RP
 - Naura POS
 - Hotel Management Apps 
 - Smart Laundry
+- Kede Kita
 
 <strong> Pengembangan Berkelanjutan untuk Uinsu</strong>
 
