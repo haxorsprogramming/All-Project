@@ -16,8 +16,7 @@ secret key : 3QyAMe33DyJ1wX2xSjgcfKUNBZg7ugh3RP
 - Website Wisma Sibayak Hotel -> wismasibayakhotel.com
 - Website Bihanal Indah Resort -> binahalindahresort.com
 - Website SMK Musda Perbaungan
-- Website Kitabaca.co
-- Directive multimedia sistem
+- Directive Multimedia Sistem
 
 <strong> Aplikasi dengan menggunakan Metode & Algoritma</strong>
 - Aplikasi monitoring trafik lalu lintas menggunakan logika fuzzy
