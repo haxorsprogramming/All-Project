@@ -1,0 +1,99 @@
+Fungsi untuk merender maps
+var directionsService = new google.maps.DirectionsService;
+var directionsDisplay = new google.maps.DirectionsRenderer({suppressMarkers:true});
+map = new google.maps.Map(document.getElementById('map'), {
+zoom: 17,
+center: {lat: 3.600969, lng: 98.697914}
+});
+directionsDisplay.setMap(map);
+
+Fungsi untuk membuat marker lokasi klinik ke maps
+$.post('http://api.haxors.or.id/taing/get_klinik_marker.php',function(data){
+let obj = JSON.parse(data);
+obj.forEach(myFunction);
+function myFunction(item, index){
+var marker = new google.maps.Marker({
+position : {lat : parseFloat(item.lat), lng:parseFloat(item.lng)},
+map: map,               
+label : {
+text : item.nama+" - "+item.node,
+fontSize : "12px",
+color : "black"
+}               
+});
+marker.setMap(map);   
+});
+
+Fungsi untuk mencari jarak & waktu
+service.getDistanceMatrix(
+{
+origins: [start_ex_d],
+destinations: [finish_ex_d],
+travelMode: 'DRIVING',
+unitSystem: google.maps.UnitSystem.METRIC,
+avoidHighways: false,
+avoidTolls: false,
+},callback);
+
+Fungsi untuk menampilkan rute ke maps
+directionsService.route({
+origin: start_ex,
+destination: finish_ex,
+travelMode: 'DRIVING',
+waypoints : waypts,
+optimizeWaypoints : true,
+}, function(response, status) {
+if (status === 'OK') {
+directionsDisplay.setDirections(response);
+$("#error").empty();
+$("#error").removeClass();
+} else {
+$("#error").addClass("badge badge-danger");
+$("#error").text("Tidak dapat menemukan nama lokasi, status error: "+status);
+}
+});
+
+Fungsi backend untuk menghitung jarak 
+<?php
+header("Access-Control-Allow-Origin: *");
+include('db.php');
+class data_respon{}
+$data_r = new data_respon();
+$node = $_POST['node'];
+
+$kNode = $link -> query("SELECT * FROM tbl_node WHERE node='$node' LIMIT 0,1;");
+
+$fNode = $kNode -> fetch_array();
+$nama = $fNode['nama'];
+$alamat = $fNode['alamat'];
+$lat = $fNode['lat'];
+$lng = $fNode['lng'];
+$lokasiTerdekat = $fNode['lokasi_terdekat'];
+
+$data_r -> nama = $nama;
+$data_r -> alamat = $alamat;
+$data_r -> lat = $lat;
+$data_r -> lng = $lng;
+$data_r -> lokasi_terdekat = $lokasiTerdekat;
+
+echo json_encode($data_r);
+
+?>
+
+
+Fungsi backend untuk memberikan data klinik 
+<?php
+header("Access-Control-Allow-Origin: *");
+include('db.php');
+class data_respon{}
+$data_r = new data_respon();
+
+$k_klinik = $link -> query("SELECT * FROM tbl_node ORDER BY id DESC;");
+
+while($f_klinik = $k_klinik -> fetch_object()){
+  $data[] = $f_klinik;
+}
+
+echo json_encode($data);
+
+?> 
