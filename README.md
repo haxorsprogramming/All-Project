@@ -57,11 +57,12 @@ secret key : 3QyAMe33DyJ1wX2xSjgcfKUNBZg7ugh3RP
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
-- Smart Laundry
-- Naura POS
+- Nadha Laundry
+- Nadha POS
 - Hotel Management Apps 
 - Smart Laundry
 - Kede Kita
+- Nadha Resto
 
 <strong> Pengembangan Berkelanjutan untuk Uinsu</strong>
 
