@@ -1,2 +1,3 @@
 Kedai-Kita
 - Halaman Login -> Clear
+- Manage Produk -> Clear
