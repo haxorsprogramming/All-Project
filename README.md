@@ -59,11 +59,10 @@ secret key : 3QyAMe33DyJ1wX2xSjgcfKUNBZg7ugh3RP
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
-- Nadha Laundry
+- Nadha Laundry (Sudah ada di repo)
 - Nadha POS
 - Hotel Management Apps 
-- Smart Laundry
-- Kede Kita
+- Kede Kita (Sudah ada di repo)
 - Nadha Resto
 
 <strong> Pengembangan Berkelanjutan untuk Uinsu</strong>
