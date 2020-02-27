@@ -19,6 +19,7 @@ secret key : 3QyAMe33DyJ1wX2xSjgcfKUNBZg7ugh3RP
 - Directive Multimedia Sistem
 - Website vanillaindonesia.id
 - i Node
+- Tarn Softwhip
 
 <strong> Aplikasi dengan menggunakan Metode & Algoritma</strong>
 - Aplikasi monitoring trafik lalu lintas menggunakan logika fuzzy
