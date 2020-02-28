@@ -20,6 +20,7 @@ secret key : 3QyAMe33DyJ1wX2xSjgcfKUNBZg7ugh3RP
 - Website vanillaindonesia.id
 - i Node
 - Tarn Softwhip
+- Ditha Coding
 
 <strong> Aplikasi dengan menggunakan Metode & Algoritma</strong>
 - Aplikasi monitoring trafik lalu lintas menggunakan logika fuzzy
