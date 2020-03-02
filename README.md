@@ -98,5 +98,5 @@ Semua project yang dikerjakan oleh haxorsprogramming club 100% free dan dapat di
 <i>Sebagian besar project menggunakan Uinsu Web Framework</i>
 
 Support kami di https://trakteer.id/alditha-nasution
-Untuk merequest project, atau membantu pengembangan club kami dapat menghubungi contact person 0853-5884-8571 (Siti Nurhaliza Sofyan)
+Untuk merequest project, atau membantu pengembangan club kami dapat menghubungi alditha.forum@gmail.com
 
