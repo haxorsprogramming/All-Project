@@ -21,6 +21,7 @@ secret key : 3QyAMe33DyJ1wX2xSjgcfKUNBZg7ugh3RP
 - i Node
 - Tarn Softwhip
 - Ditha Coding
+- Grab API Liquidpedia 
 
 <strong> Aplikasi dengan menggunakan Metode & Algoritma</strong>
 - Aplikasi monitoring trafik lalu lintas menggunakan logika fuzzy
