@@ -60,6 +60,7 @@ secret key : 3QyAMe33DyJ1wX2xSjgcfKUNBZg7ugh3RP
 - Aplikasi Kepegawaian
 - Aplikasi Manajemen Pembayaran Air
 - Aplikasi Track Pengiriman Barang
+- Aplikasi Manajemen Taksi
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
