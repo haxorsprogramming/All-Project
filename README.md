@@ -20,7 +20,7 @@ secret key : ""
 - Website vanillaindonesia.id
 - i Node
 - Tarn Softwhip
-- Ditha Coding
+- Video Confrence
 - Grab API Liquidpedia 
 
 <strong> Aplikasi dengan menggunakan Metode & Algoritma</strong>
