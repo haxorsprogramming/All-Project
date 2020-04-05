@@ -67,6 +67,7 @@ secret key : ""
 - Hotel Management Apps 
 - Kede Kita (Sudah ada di repo)
 - Nadha Resto
+- Nadha Clinic
 
 <strong> Pengembangan Berkelanjutan untuk Uinsu</strong>
 
