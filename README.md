@@ -18,9 +18,7 @@ secret key : ""
 - Website SMK Musda Perbaungan
 - Directive Multimedia Sistem
 - Website vanillaindonesia.id
-- i Node
-- Tarn Softwhip
-- Video Confrence
+- Video Confrence Uinsu
 - Grab API Liquidpedia 
 
 <strong> Aplikasi dengan menggunakan Metode & Algoritma</strong>
