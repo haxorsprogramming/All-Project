@@ -63,10 +63,10 @@ secret key : ""
 <strong> Aplikasi produk NadhaMedia </strong>
 
 - Nadha Laundry (Sudah ada di repo)
-- Nadha POS
-- Hotel Management Apps 
-- Kede Kita (Sudah ada di repo)
 - Nadha Resto
+- Nadha Hotel 
+- Nadha Garage
+- Nadha Track
 - Nadha Clinic
 
 <strong> Pengembangan Berkelanjutan untuk Uinsu</strong>
