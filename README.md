@@ -3,18 +3,16 @@
 # All-Project
 Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
-secret key : ""
-
 <strong> Aplikasi Client</strong>
-- Main sistem NadhaMedia -> nadha.id
-- Stagging area eDagang.id -> leave
-- Website Yakin Institute -> yakin-institute.com
-- Website survey Yakin Institute -> menujusergai2020.yakin-institute.com
-- Website LKP Friendship -> lkp-friendship.com
-- Website Romansinasi Hotel -> romansinasihotel.com
-- Website SMPN 2 Pegajahan -> smpn2pegajahan.sch.id
-- Website Wisma Sibayak Hotel -> wismasibayakhotel.com
-- Website Bihanal Indah Resort -> binahalindahresort.com
+- Main sistem NadhaMedia 
+- Stagging area eDagang.id (Migrasi dari CI ke Laravel)
+- Website Yakin Institute
+- Website survey Yakin Institute
+- Website LKP Friendship
+- Website Romansinasi Hotel
+- Website SMPN 2 Pegajahan
+- Website Wisma Sibayak Hotel
+- Website Bihanal Indah Resort
 - Website SMK Musda Perbaungan
 - Directive Multimedia Sistem
 - Website vanillaindonesia.id
