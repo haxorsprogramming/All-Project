@@ -3,6 +3,9 @@
 # All-Project
 Semua project yang dikembangkan oleh HaxorsProgrammingClub
 
+Project board Haxorsprogrammingclub
+https://trello.com/b/pYbgelnu/haxors-project-board
+
 <strong> Aplikasi Client</strong>
 - Main sistem NadhaMedia 
 - Stagging area eDagang.id (Migrasi dari CI ke Laravel)
