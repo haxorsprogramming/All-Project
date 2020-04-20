@@ -7,43 +7,42 @@ Project board Haxorsprogrammingclub
 https://trello.com/b/pYbgelnu/haxors-project-board
 
 <strong> Aplikasi client NadhaMedia</strong>
-- Main sistem NadhaMedia 
+- Website NadhaMedia
 - Stagging area eDagang.id (Migrasi dari CI ke Laravel)
 - Website Yakin Institute
-- Website survey Yakin Institute
-- Website LKP Friendship
 - Website Romansinasi Hotel
-- Website SMPN 2 Pegajahan
 - Website Wisma Sibayak Hotel
-- Website Bihanal Indah Resort
-- Website SMK Musda Perbaungan
-- Directive Multimedia Sistem
-- Website vanillaindonesia.id
-- Video Confrence Uinsu
-- Grab API Liquidpedia 
+- Website Binahal Indah Resort
+- Website Vanillaindonesia
+- Aplikasi B & B Ponsel
+- Website Partnerindo
 
-<strong> Aplikasi Produksi </strong>
+<strong> Aplikasi Open source & pengembangan oleh Haxorsprogramming </strong>
 
 - Aplikasi Koperasi Simpan Pinjam
-- Aplikasi Perpustakaan - (Sudah ada repo)
-- Aplikasi Pengolah Nilai Siswa - (Sudah ada repo)
-- Aplikasi Koperasi Kelompok Tani - (Sudah ada repo)
-- Aplikasi Koperasi Simpan Pinjam
-- Aplikasi Kuisioner Online - (Sudah ada repo)
-- Aplikasi Voting Online - (Sudah ada repo)
+- Aplikasi Perpustakaan 
+- Aplikasi Pengolah Nilai Siswa
+- Aplikasi Koperasi Kelompok Tani
+- Aplikasi Kuisioner Online
+- Aplikasi Voting Online
 - Aplikasi Pengatur Jadwal Pelajaran
 - Aplikasi Manajemen Panti Asuhan
 - Aplikasi KKN Online
-- Aplikasi Kepegawaian
+- Aplikasi Manajemen Kepegawaian
+- Website SMK Musda Perbaunga
+- Website SMPN 2 Pegajahan
+- Website LKP Friendship
+- Aplikasi Ujian Online
+- Aplikasi SPSB (Sistem Penerimaan Siswa Baru)
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
-- Nadha Laundry (Sudah ada di repo)
-- Nadha Resto (Sudah ada di repo)
+- Nadha Laundry
+- Nadha Resto
 - Nadha Hotel 
-- Nadha Garage (Sudah ada di repo)
+- Nadha Garage 
 - Nadha Track
-- Nadha Clinic (Sudah ada di repo)
+- Nadha Clinic
 - Nadha Catering
 - Nadha Spa 
 - Nadha Travel
@@ -64,6 +63,7 @@ https://trello.com/b/pYbgelnu/haxors-project-board
 > Media pembelajaran online untuk kalangan mahasiswa/i Universitas Islam Negeri Sumatera Utara. Diharapkan dengan aplikasi ini, sistem pembelajaran digital dapat diterapkan dengan baik
 
 - Preflap
+> 
 
 - Halo Kampung
 > Adalah flatform aplikasi yang digunakan sebagai media pertemuan antara relawan pengajar dengan spot spot di daerah untuk melaksanakan kegiatan pembelajaran
