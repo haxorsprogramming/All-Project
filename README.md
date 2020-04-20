@@ -6,7 +6,7 @@ Semua project yang dikembangkan oleh HaxorsProgrammingClub
 Project board Haxorsprogrammingclub
 https://trello.com/b/pYbgelnu/haxors-project-board
 
-<strong> Aplikasi Client</strong>
+<strong> Aplikasi client NadhaMedia</strong>
 - Main sistem NadhaMedia 
 - Stagging area eDagang.id (Migrasi dari CI ke Laravel)
 - Website Yakin Institute
@@ -22,44 +22,19 @@ https://trello.com/b/pYbgelnu/haxors-project-board
 - Video Confrence Uinsu
 - Grab API Liquidpedia 
 
-<strong> Aplikasi dengan menggunakan Metode & Algoritma</strong>
-- Aplikasi monitoring trafik lalu lintas menggunakan logika fuzzy
-- Aplikasi pengolahan data produksi dengan metode EOQ
-- Aplikasi seleksi penerimaan siswa baru dengan metode SAW 
-- Aplikasi Logika Fuzzy
-
 <strong> Aplikasi Produksi </strong>
 
-- Aplikasi Bengkel Kendaraan - (Sudah ada repo)
-- Aplikasi Laundry - (Sudah ada repo)
-- Aplikasi Inventory - (Sudah ada repo)
-- Aplikasi Katering - (Sudah ada repo)
 - Aplikasi Koperasi Simpan Pinjam
-- Aplikasi Klinik - (Sudah ada di repo)
-- Aplikasi Apotik - (Sudah ada repo)
 - Aplikasi Perpustakaan - (Sudah ada repo)
 - Aplikasi Pengolah Nilai Siswa - (Sudah ada repo)
 - Aplikasi Koperasi Kelompok Tani - (Sudah ada repo)
 - Aplikasi Koperasi Simpan Pinjam
-- Aplikasi POS (Point Of Sales) - (Sudah ada di repo)
-- Aplikasi Pengolahan Produksi - (Sudah ada repo)
 - Aplikasi Kuisioner Online - (Sudah ada repo)
 - Aplikasi Voting Online - (Sudah ada repo)
 - Aplikasi Pengatur Jadwal Pelajaran
-- Aplikasi Manajemen Spa
-- Aplikasi Manajemen Gadai
 - Aplikasi Manajemen Panti Asuhan
-- Aplikasi Agen Perjalanan Wisata
-- Aplikasi Manajemen Gudang
-- Aplikasi Manajemen Surat
 - Aplikasi KKN Online
-- Aplikasi Kontrol Stock
-- Aplikasi Absensi
-- Aplikasi Simpel Payroll
 - Aplikasi Kepegawaian
-- Aplikasi Manajemen Pembayaran Air
-- Aplikasi Track Pengiriman Barang
-- Aplikasi Manajemen Taksi
 
 <strong> Aplikasi produk NadhaMedia </strong>
 
@@ -70,6 +45,9 @@ https://trello.com/b/pYbgelnu/haxors-project-board
 - Nadha Track
 - Nadha Clinic (Sudah ada di repo)
 - Nadha Catering
+- Nadha Spa 
+- Nadha Travel
+- Nadha Kost
 
 <strong> Pengembangan Berkelanjutan untuk Uinsu</strong>
 
