@@ -20,9 +20,9 @@ https://trello.com/b/pYbgelnu/haxors-project-board
 <strong> Aplikasi Open source & pengembangan oleh Haxorsprogramming </strong>
 
 - Aplikasi Koperasi Simpan Pinjam
-- Aplikasi Perpustakaan 
-- Aplikasi Pengolah Nilai Siswa
-- Aplikasi Koperasi Kelompok Tani
+- Aplikasi Manajemen Perpustakaan 
+- Aplikasi Pengolahan Nilai Siswa (Rapor Online)
+- Aplikasi Manajemen Koperasi Kelompok Tani
 - Aplikasi Kuisioner Online
 - Aplikasi Voting Online
 - Aplikasi Pengatur Jadwal Pelajaran
@@ -41,7 +41,7 @@ https://trello.com/b/pYbgelnu/haxors-project-board
 - Nadha Resto
 - Nadha Hotel 
 - Nadha Garage 
-- Nadha Track
+- Nadha TMS (Tracking Management System)
 - Nadha Clinic
 - Nadha Catering
 - Nadha Spa 
