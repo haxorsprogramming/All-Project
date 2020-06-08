@@ -21,6 +21,8 @@ Teman teman yang memberi dukungan untuk haxors.
 
 - Adi Syahputro
 
+Untuk list seluruh contributor dapat dilihat di http://contributors.haxors.or.id
+
 <h4>F.A.Q</h4>
 
 <b>Apasih haxors contributors itu?</b> 
@@ -44,6 +46,12 @@ Teman teman yang memberi dukungan untuk haxors.
 >> Apabila anda ingin berkontribusi dalam bentuk donasi, kami akan menghubungi anda setelah anda memberikan donasi dan memberikan pilihan apakah ingin bergabung ke grup kontributor haxors (telegram) untuk sharing masalah pengembangan haxors, anda juga dapat mengajukan pengembangan aplikasi baru disana. Jika ingin memberikan kontribusi dalam bidang code analist, debugging, dll yang berhubungan dengan teknik aplikasi" haxors, anda dapat menghubungi kami dibawah dan akan kami invite ke grup kontributors haxors. 
 
 
+Link donasi (Saweria)
+https://saweria.co/donate/haxorsprogramming
+
+Contact haxors 
+WhatsApp : 082272177022 
+Email : alditha.forum@gmail.com
 
 Project board Haxorsprogrammingclub
 https://trello.com/b/pYbgelnu/haxors-project-board
