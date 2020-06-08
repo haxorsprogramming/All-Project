@@ -16,12 +16,16 @@ Teman teman yang memberi dukungan untuk haxors.
 - Bagas Kurniawan
 - M. Kholik Ridho
 
+<h4>Code Analist & Debugging</h4>
+
+- Adi Syahputro
 
 <h4>F.A.Q</h4>
 
->> Apasih haxors contributors itu?
+<b>Apasih haxors contributors itu?</b> 
 
-Teman teman yang memberikan dukungan 
+>> Teman teman yang memberikan dukungan baik donasi maupun pengembangan code di beberapa aplikasi open source haxors
+
 
 
 Project board Haxorsprogrammingclub
