@@ -24,8 +24,11 @@ Teman teman yang memberi dukungan untuk haxors.
 
 <b>Apasih haxors contributors itu?</b> 
 
->> Teman teman yang memberikan dukungan baik donasi maupun pengembangan code di beberapa aplikasi open source haxors
+>> Teman teman yang memberikan dukungan baik donasi maupun pengembangan code di beberapa aplikasi yang sedang dikembangan oleh haxorsprogramming
 
+<b>Dalam bentuk apa saja jika saya ingin berkontribusi untuk haxors?</b>
+
+>> Kita menerima dukungan dalam bentuk donasi, debugging, serta ide atau konsep pengembangan aplikasi baru atau memperbaharui aplikasi yang sudah ada
 
 
 Project board Haxorsprogrammingclub
