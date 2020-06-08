@@ -3,7 +3,7 @@
 # Haxors-Contributors
 Teman teman yang memberi dukungan untuk haxors.
 
-<h4>Donasi (Saweria)</h4>
+<h4>Donasi (Saweria & Direct)</h4>
 
 - Cristian Suwandi
 - Naomi Khailida Fitriani
@@ -11,10 +11,14 @@ Teman teman yang memberi dukungan untuk haxors.
 - Darwin Bangun
 - Sulaiman
 - Agus Siddik
-- 
+- Arifatu's Sa'adah
+- La Puta
+- Bagas Kurniawan
+- M. Kholik Ridho
+
 
 <h4>F.A.Q</h4>
->> Apasih haxors contributors itu?
+>> Apasih haxors contributors itu?<br/>
 Teman teman yang memberikan dukungan 
 
 Project board Haxorsprogrammingclub
