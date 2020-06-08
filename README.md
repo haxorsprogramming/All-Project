@@ -15,7 +15,6 @@ Teman teman yang memberi dukungan untuk haxors.
 - La Puta
 - Bagas Kurniawan
 - M. Kholik Ridho
-- Gideon Arif
 
 <h4>Code Analist & Debugging</h4>
 
