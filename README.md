@@ -15,6 +15,7 @@ Teman teman yang memberi dukungan untuk haxors.
 - La Puta
 - Bagas Kurniawan
 - M. Kholik Ridho
+- Gideon Arif
 
 <h4>Code Analist & Debugging</h4>
 
@@ -30,6 +31,13 @@ Teman teman yang memberi dukungan untuk haxors.
 
 >> Kita menerima dukungan dalam bentuk donasi, debugging, serta ide atau konsep pengembangan aplikasi baru atau memperbaharui aplikasi yang sudah ada
 
+<b>Saya tidak punya skill programming, tetapi ingin berkontribusi .. apakah bisa?</b>
+
+>> Tentu, sedikit banyaknya donasi dapat membantu pengembangan club pemrogramman ini. Jika anda tidak memiliki bakat programming dan ingin berkontribusi, anda dapat memberikan kontribusi berupa ide, saran serta dukungan lain yg dapat membantu haxorsprogramming kedepannya. 
+
+<b>Apakah saya bisa menjadi anggota haxorsprogramming</b>
+
+>> 
 
 Project board Haxorsprogrammingclub
 https://trello.com/b/pYbgelnu/haxors-project-board
