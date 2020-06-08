@@ -18,11 +18,12 @@ Teman teman yang memberi dukungan untuk haxors.
 
 
 <h4>F.A.Q</h4>
->> Apasih haxors contributors itu?<br/>
+
+>> Apasih haxors contributors itu?
+
 Teman teman yang memberikan dukungan 
+
 
 Project board Haxorsprogrammingclub
 https://trello.com/b/pYbgelnu/haxors-project-board
-
-Deksripsi beserta link repo nya sudah kami berikan apabila teman-teman ingin melihat project kami. Hubungi kami di haxorsuinsu@gmail.com apabila ada yang ingin ditanyakan.
 
