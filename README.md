@@ -37,7 +37,13 @@ Teman teman yang memberi dukungan untuk haxors.
 
 <b>Apakah saya bisa menjadi anggota haxorsprogramming</b>
 
->> 
+>> Untuk saat ini hanya mahasiswa/i UIN-SU yang dapat menjadi anggota haxorsprogramming, dikarenakan club ini berdiri dibawah naungan kampus. 
+
+<b>Bagaimana mekanismenya jika saya ingin berkontribusi?</b>
+
+>> Apabila anda ingin berkontribusi dalam bentuk donasi, kami akan menghubungi anda setelah anda memberikan donasi dan memberikan pilihan apakah ingin bergabung ke grup kontributor haxors (telegram) untuk sharing masalah pengembangan haxors, anda juga dapat mengajukan pengembangan aplikasi baru disana. Jika ingin memberikan kontribusi dalam bidang code analist, debugging, dll yang berhubungan dengan teknik aplikasi" haxors, anda dapat menghubungi kami dibawah dan akan kami invite ke grup kontributors haxors. 
+
+
 
 Project board Haxorsprogrammingclub
 https://trello.com/b/pYbgelnu/haxors-project-board
