@@ -21,7 +21,6 @@ Teman teman yang memberi dukungan untuk haxors.
 
 - Adi Syahputro
 
-Untuk list seluruh contributor dapat dilihat di http://contributors.haxors.or.id
 
 <h4>F.A.Q</h4>
 
