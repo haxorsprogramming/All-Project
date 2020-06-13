@@ -45,8 +45,8 @@ Teman teman yang memberi dukungan untuk haxors.
 >> Apabila anda ingin berkontribusi dalam bentuk donasi, kami akan menghubungi anda setelah anda memberikan donasi dan memberikan pilihan apakah ingin bergabung ke grup kontributor haxors (telegram) untuk sharing masalah pengembangan haxors, anda juga dapat mengajukan pengembangan aplikasi baru disana. Jika ingin memberikan kontribusi dalam bidang code analist, debugging, dll yang berhubungan dengan teknik aplikasi" haxors, anda dapat menghubungi kami dibawah dan akan kami invite ke grup kontributors haxors. 
 
 
-Link donasi (Saweria)
-https://saweria.co/donate/haxorsprogramming
+<h3>Link donasi (Saweria)
+https://saweria.co/donate/haxorsprogramming</h3>
 
 Contact haxors 
 WhatsApp : 082272177022 
