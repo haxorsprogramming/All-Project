@@ -15,6 +15,7 @@ Teman teman yang memberi dukungan untuk haxors.
 - La Puta
 - Bagas Kurniawan
 - M. Kholik Ridho
+- Hengky (Uspatih Studio)
 
 <h4>Code Analist & Debugging</h4>
 
