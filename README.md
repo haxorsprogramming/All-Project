@@ -1,6 +1,7 @@
-<span align='center'>
+<p align='center'>
 <img src='https://avatars1.githubusercontent.com/u/44484256?s=460&u=fa6df5a9dd71657610e26ccdd0c5f03d85cb9296&v=4' width='200'>
-</span>
+</p>
+
 # Haxors-Contributors
 Teman teman yang memberi dukungan untuk haxors.
 
