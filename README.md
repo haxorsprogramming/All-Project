@@ -18,6 +18,7 @@ Teman teman yang memberi dukungan untuk haxors.
 - Bagas Kurniawan
 - M. Kholik Ridho
 - Hengky (Uspatih Studio)
+- Akhyarie (waresponder.co.id)
 
 <h4>Code Analist & Debugging</h4>
 
