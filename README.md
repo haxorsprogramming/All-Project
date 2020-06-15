@@ -52,7 +52,8 @@ Teman teman yang memberi dukungan untuk haxors.
 https://saweria.co/donate/haxorsprogramming</h3>
 
 Contact haxors 
-WhatsApp : 082272177022 
+WhatsApp : 082272177022
+
 Email : alditha.forum@gmail.com
 
 
