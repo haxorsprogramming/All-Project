@@ -55,6 +55,4 @@ Contact haxors
 WhatsApp : 082272177022 
 Email : alditha.forum@gmail.com
 
-Project board Haxorsprogrammingclub
-https://trello.com/b/pYbgelnu/haxors-project-board
 
