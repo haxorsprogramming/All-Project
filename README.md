@@ -2,7 +2,7 @@
 <img src='https://haxors.or.id/images/logo_club.png' width='300'>
 </p>
 <p align='center'>
-<img src='' width='300'>
+<img src='https://github.com/haxorsprogramming/Haxors-Contributors/blob/master/haxors_project/cover.png?raw=true' width='1300'>
 </p>
 
 # Haxors-Contributors
