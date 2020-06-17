@@ -19,6 +19,7 @@ Teman teman yang memberi dukungan untuk haxors.
 - M. Kholik Ridho
 - Hengky (Uspatih Studio)
 - Akhyarie (waresponder.co.id)
+- Wader Tresipa Jhonson
 
 <h4>Code Analist & Debugging</h4>
 
