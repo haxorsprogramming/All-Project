@@ -21,8 +21,11 @@ Teman teman yang memberi dukungan untuk haxors.
   <td>Agus Siddik</td><td>Arifa Saadah</td><td>Rini Fadillah</td><td>Bagas Kurniawan</td><td>M. Kholik Ridho</td>  
  </tr>
  <tr>
-  <td>Hengky (Uspatih Studio)</td><td>Akhyarie (waresponser.co.id)</td><td>Wader Tresipa Jhonson</td><td>M. Agung Aditya</td><td>Surya Affandi (B & B Ponsel)</td>
+  <td>Hengky (Uspatih Studio)</td><td>Akhyarie (waresponser.co.id)</td><td>Raihan Al Farid</td><td>M. Agung Aditya</td><td>Surya Affandi (B & B Ponsel)</td>
   </tr>
+  <tr>
+  <td>Rida Nasution</td><td>Zulhamdani</td><td></td><td></td><td></td>
+  </tr> 
  <tr>
   <td></td><td></td><td></td><td></td><td></td>
   </tr>  
