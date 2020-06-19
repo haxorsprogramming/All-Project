@@ -15,7 +15,7 @@ Teman teman yang memberi dukungan untuk haxors.
 
 <table>
  <tr>
-   <td>Cristian Suwandi</td><td>Naomi Khailida Fitriani</td><td>Hery Syahputra (Apple Net)</td><td>Darwin Bangun</td><td>Sulaiman(LKP Friendship.com)</td>
+   <td>Cristian Suwandi</td><td>Naomi K. Fitriani</td><td>Hery Syahputra (Apple Net)</td><td>Darwin Bangun</td><td>Sulaiman(LKP Friendship.com)</td>
   </tr>
  <tr>
   <td>Agus Siddik</td><td>Arifa Saadah</td><td>Rini Fadillah</td><td>Bagas Kurniawan</td><td>M. Kholik Ridho</td>  
