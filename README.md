@@ -15,8 +15,9 @@ Teman teman yang memberi dukungan untuk haxors.
 
 <table>
  <tr>
-   <td>Cristian Suwandi</td> <td>Cristian Suwandi</td> <td>Cristian Suwandi</td> <td>Cristian Suwandi</td>
+   <td>Cristian Suwandi</td> <td>Naomi Khailida Fitriani</td> <td>Hery Syahputra</td> <td>Darwin Bangun</td> <td>Sulaiman</td>
   </tr>
+ 
  </table>
 - Cristian Suwandi
 - Naomi Khailida Fitriani
