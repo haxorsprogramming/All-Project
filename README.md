@@ -13,6 +13,11 @@ Teman teman yang memberi dukungan untuk haxors.
 
 <h4>Donasi (Saweria & Direct)</h4>
 
+<table>
+ <tr>
+   <td>Cristian Suwandi</td> <td>Cristian Suwandi</td> <td>Cristian Suwandi</td> <td>Cristian Suwandi</td>
+  </tr>
+ </table>
 - Cristian Suwandi
 - Naomi Khailida Fitriani
 - Hery Syahputra
