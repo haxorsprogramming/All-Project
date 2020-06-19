@@ -15,13 +15,13 @@ Teman teman yang memberi dukungan untuk haxors.
 
 <table>
  <tr>
-   <td>Cristian Suwandi</td><td>Naomi Khailida Fitriani</td><td>Hery Syahputra</td><td>Darwin Bangun</td><td>Sulaiman</td>
+   <td>Cristian Suwandi</td><td>Naomi Khailida Fitriani</td><td>Hery Syahputra (Apple Net)</td><td>Darwin Bangun</td><td>Sulaiman(LKP Friendship.com)</td>
   </tr>
  <tr>
   <td>Agus Siddik</td><td>Arifa Saadah</td><td>Rini Fadillah</td><td>Bagas Kurniawan</td><td>M. Kholik Ridho</td>  
  </tr>
  <tr>
-  <td>Hengky (Uspatih Studio)</td><td>Akhyarie (waresponser.co.id)</td><td>Wader Tresipa Jhonson</td><td>M. Agung Aditya</td><td></td>
+  <td>Hengky (Uspatih Studio)</td><td>Akhyarie (waresponser.co.id)</td><td>Wader Tresipa Jhonson</td><td>M. Agung Aditya</td><td>Surya Affandi (B & B Ponsel)</td>
   </tr>
  <tr>
   <td></td><td></td><td></td><td></td><td></td>
