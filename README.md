@@ -15,23 +15,20 @@ Teman teman yang memberi dukungan untuk haxors.
 
 <table>
  <tr>
-   <td>Cristian Suwandi</td> <td>Naomi Khailida Fitriani</td> <td>Hery Syahputra</td> <td>Darwin Bangun</td> <td>Sulaiman</td>
+   <td>Cristian Suwandi</td><td>Naomi Khailida Fitriani</td><td>Hery Syahputra</td><td>Darwin Bangun</td><td>Sulaiman</td>
   </tr>
- 
- </table>
-- Cristian Suwandi
-- Naomi Khailida Fitriani
-- Hery Syahputra
-- Darwin Bangun
-- Sulaiman
-- Agus Siddik
-- Arifatu's Sa'adah
-- La Puta
-- Bagas Kurniawan
-- M. Kholik Ridho
-- Hengky (Uspatih Studio)
-- Akhyarie (waresponder.co.id)
-- Wader Tresipa Jhonson
+ <tr>
+  <td>Agus Siddik</td><td>Arifa Saadah</td><td>Rini Fadillah</td><td>Bagas Kurniawan</td><td>M. Kholik Ridho</td>  
+ </tr>
+ <tr>
+  <td>Hengky (Uspatih Studio)</td><td>Akhyarie (waresponser.co.id)</td><td>Wader Tresipa Jhonson</td><td></td><td></td>
+  </tr>
+ <tr>
+  <td></td><td></td><td></td><td></td><td></td>
+  </tr>  
+</table>
+
+<b>Data di update seminggu sekali</b>
 
 <h4>Code Analist & Debugging</h4>
 
