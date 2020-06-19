@@ -28,7 +28,7 @@ Teman teman yang memberi dukungan untuk haxors.
   </tr>  
 </table>
 
-<b>Data di update seminggu sekali</b>
+<small><i>Data di update seminggu sekali</i></small>
 
 <h4>Code Analist & Debugging</h4>
 
