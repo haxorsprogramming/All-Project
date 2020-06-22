@@ -37,8 +37,6 @@ Teman teman yang memberi dukungan untuk haxors.
 
 - Adi Syahputro
 
-'Consolas','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'
-
 <h4>F.A.Q</h4>
 
 <b>Apasih haxors contributors itu?</b> 
