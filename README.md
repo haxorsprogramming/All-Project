@@ -24,7 +24,7 @@ Teman teman yang memberi dukungan untuk haxors.
   <td>Hengky (Uspatih Studio)</td><td>Akhyarie (waresponser.co.id)</td><td>Raihan Al Farid</td><td>M. Agung Aditya</td><td>Surya Affandi (B & B Ponsel)</td>
   </tr>
   <tr>
-  <td>Rida Nasution</td><td>Zulhamdani</td><td></td><td></td><td></td>
+  <td>Rida Nasution</td><td>Zulhamdani</td><td>Ahmad Putra Siregar</td><td></td><td></td>
   </tr> 
  <tr>
   <td></td><td></td><td></td><td></td><td></td>
