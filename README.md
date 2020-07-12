@@ -53,7 +53,8 @@ Teman teman yang memberi dukungan untuk haxors.
 
 <b>Apasaja benefit jika saya berkontribusi untuk Haxorsprogramming?</b>
 
->> Untuk saat ini hanya mahasiswa/i UIN-SU yang dapat menjadi anggota haxorsprogramming, dikarenakan club ini berdiri dibawah naungan kampus. 
+>> <li> Nama kontributor akan disertakan disemua project project haxorsprogramming</li>
+>> <li> Nama kontributor akan disertakan disemua project project haxorsprogramming</li>
 
 <b>Bagaimana mekanismenya jika saya ingin berkontribusi?</b>
 
