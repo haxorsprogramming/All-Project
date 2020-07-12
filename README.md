@@ -53,8 +53,10 @@ Teman teman yang memberi dukungan untuk haxors.
 
 <b>Apasaja benefit jika saya berkontribusi untuk Haxorsprogramming?</b>
 
->> <li> Nama kontributor akan disertakan disemua project project haxorsprogramming</li>
->> <li> Nama kontributor akan disertakan disemua project project haxorsprogramming</li>
+>> <li> Nama teman teman akan disertakan di tab 'Tentang aplikasi' di semua project haxorsprogramming</li>
+>> <li> Teman teman akan mendapatkan informasi update seputar perkembangan project project haxorsprogramming</li>
+>> <li> Teman teman dapat mengusulkan fitur/aplikasi baru yang akan didiskusikan untuk pengembangan selanjutnya</li>
+>> <li> Teman teman akan mendapatkan space gratis di server haxorsprogramming untuk menghostingkan aplikasi sesuai permintaan</li>
 
 <b>Bagaimana mekanismenya jika saya ingin berkontribusi?</b>
 
