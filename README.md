@@ -51,7 +51,7 @@ Teman teman yang memberi dukungan untuk haxors.
 
 >> Tentu, sedikit banyaknya donasi dapat membantu pengembangan club pemrogramman ini. Jika anda tidak memiliki bakat programming dan ingin berkontribusi, anda dapat memberikan kontribusi berupa ide, saran serta dukungan lain yg dapat membantu haxorsprogramming kedepannya. 
 
-<b>Apakah saya bisa menjadi anggota haxorsprogramming</b>
+<b>Apasaja benefit jika saya berkontribusi untuk Haxorsprogramming?</b>
 
 >> Untuk saat ini hanya mahasiswa/i UIN-SU yang dapat menjadi anggota haxorsprogramming, dikarenakan club ini berdiri dibawah naungan kampus. 
 
