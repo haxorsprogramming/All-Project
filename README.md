@@ -60,13 +60,13 @@ Teman teman yang memberi dukungan untuk haxors.
 >> <li> Teman teman akan mendapatkan informasi update seputar perkembangan project project haxorsprogramming</li>
 >> <li> Teman teman dapat mengusulkan fitur/aplikasi baru yang akan didiskusikan untuk pengembangan selanjutnya</li>
 >> <li> Teman teman akan mendapatkan space gratis di server haxorsprogramming untuk menghostingkan aplikasi sesuai permintaan</li>
->> <li> Bagi teman teman yang memberikan support donasi ke kita di atas Rp. 500,000 (baik uang maupun dukungan insfrastuktur yang senilai cth server, hardware, dll), akan kita berikan sertifikat kontribusi fisik</li>
+>> <li> Bagi teman teman yang memberikan support donasi ke kita di atas Rp. 500,000 (baik uang maupun dukungan insfrastuktur yang senilai cth server, hardware, dll), akan kita berikan sertifikat kontribusi fisik ke teman teman</li>
 
 <b>Kemana donasi tiap kontributor digunakan?</b>
 
 >> <li>Untuk operasional komunitas</li>
 >> <li>Pembelian modul belajar</li>
->> <ii>Sebulan sekali, 10% dari total donasi disumbangkan ke <a href='https://donasi.dompetdhuafa.org/'></a>Dompet Dhuafa</li>
+>> <li>Sebulan sekali, 10% dari total donasi disumbangkan ke <a href='https://donasi.dompetdhuafa.org/'></a>Dompet Dhuafa</li>
 
 <b>Bagaimana mekanismenya jika saya ingin berkontribusi?</b>
 
