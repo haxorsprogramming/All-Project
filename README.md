@@ -54,12 +54,15 @@ Teman teman yang memberi dukungan untuk haxors.
 
 >> Tentu, sedikit banyaknya donasi dapat membantu pengembangan club pemrogramman ini. Jika anda tidak memiliki bakat programming dan ingin berkontribusi, anda dapat memberikan kontribusi berupa ide, saran serta dukungan lain yg dapat membantu haxorsprogramming kedepannya. 
 
-<b>Apasaja benefit jika saya berkontribusi untuk Haxorsprogramming?</b>
+<b>Apa saja benefit jika saya berkontribusi untuk Haxorsprogramming?</b>
 
 >> <li> Nama teman teman akan disertakan di tab 'Tentang aplikasi' di semua project haxorsprogramming</li>
 >> <li> Teman teman akan mendapatkan informasi update seputar perkembangan project project haxorsprogramming</li>
 >> <li> Teman teman dapat mengusulkan fitur/aplikasi baru yang akan didiskusikan untuk pengembangan selanjutnya</li>
 >> <li> Teman teman akan mendapatkan space gratis di server haxorsprogramming untuk menghostingkan aplikasi sesuai permintaan</li>
+>> <li> Bagi teman teman yang memberikan support donasi ke kita di atas Rp. 500,000 (baik uang maupun dukungan insfrastuktur yang senilai cth server, hardware, dll), akan kita berikan sertifikat kontribusi fisik</li>
+
+<b> </b>
 
 <b>Bagaimana mekanismenya jika saya ingin berkontribusi?</b>
 
