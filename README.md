@@ -44,11 +44,11 @@ Teman teman yang memberi dukungan untuk haxors.
 
 <b>Apasih haxors contributors itu?</b> 
 
->> Teman teman yang memberikan dukungan baik donasi maupun pengembangan code di beberapa aplikasi yang sedang dikembangan oleh haxorsprogramming
+>>Teman teman yang memberikan dukungan baik donasi maupun pengembangan code di beberapa aplikasi yang sedang dikembangan oleh haxorsprogramming
 
 <b>Dalam bentuk apa saja jika saya ingin berkontribusi untuk haxors?</b>
 
->> Kita menerima dukungan dalam bentuk donasi, debugging, serta ide atau konsep pengembangan aplikasi baru atau memperbaharui aplikasi yang sudah ada
+>>Kita menerima dukungan dalam bentuk donasi, debugging, serta ide atau konsep pengembangan aplikasi baru atau memperbaharui aplikasi yang sudah ada
 
 <b>Saya tidak punya skill programming, tetapi ingin berkontribusi .. apakah bisa?</b>
 
@@ -62,7 +62,11 @@ Teman teman yang memberi dukungan untuk haxors.
 >> <li> Teman teman akan mendapatkan space gratis di server haxorsprogramming untuk menghostingkan aplikasi sesuai permintaan</li>
 >> <li> Bagi teman teman yang memberikan support donasi ke kita di atas Rp. 500,000 (baik uang maupun dukungan insfrastuktur yang senilai cth server, hardware, dll), akan kita berikan sertifikat kontribusi fisik</li>
 
-<b> </b>
+<b>Kemana donasi tiap kontributor digunakan?</b>
+
+>> <li>Untuk operasional komunitas</li>
+>> <li>Pembelian modul belajar</li>
+>> <ii>Sebulan sekali, 10% dari total donasi disumbangkan ke <a href='https://donasi.dompetdhuafa.org/'></a>Dompet Dhuafa</li>
 
 <b>Bagaimana mekanismenya jika saya ingin berkontribusi?</b>
 
