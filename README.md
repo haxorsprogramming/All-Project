@@ -27,7 +27,7 @@ Teman teman yang memberi dukungan untuk haxors.
   <td>Rida Nasution</td><td>Zulhamdani</td><td>Ahmad Putra Siregar</td><td>Syaiful Amri</td><td>Reza Hamzani</td>
   </tr>
  <tr>
-  <td>Jevon Christian</td><td>Riyan R. Tambunan</td><td></td><td></td><td></td>
+  <td>Jevon Christian</td><td>Riyan R. Tambunan</td><td>Nanang WS Wimbadi</td><td></td><td></td>
   </tr>  
  <tr>
   <td></td><td></td><td></td><td></td><td></td>
