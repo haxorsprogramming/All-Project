@@ -78,7 +78,7 @@ Silahkan subs channel Haxors Update di telegram untuk mendapatkan informasi terb
 <h3>Link donasi (Saweria)
 https://saweria.co/donate/haxorsprogramming</h3>
 
-<h3>Rekening Donasi (Jenius/BTPN)</h3><br/>
+<h3>Rekening Donasi (Jenius/BTPN)</h3>
 <h3>90230029157 an Aditia Darma Nst</h3>
 
 
