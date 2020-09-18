@@ -64,9 +64,9 @@ Teman teman yang memberi dukungan untuk haxors.
 
 <b>Kemana donasi tiap kontributor digunakan?</b>
 
->> <li>Untuk operasional komunitas</li>
->> <li>Pembelian modul belajar</li>
->> <li>Setiap bulan, 10% dari total donasi disumbangkan ke <a href='https://donasi.dompetdhuafa.org/'>Dompet Dhuafa</a></li>
+>> <li> Untuk operasional komunitas</li>
+>> <li> Pembelian modul belajar</li>
+>> <li> Setiap bulan, 10% dari total donasi disumbangkan ke <a href='https://donasi.dompetdhuafa.org/'>Dompet Dhuafa</a></li>
 
 <b>Bagaimana mekanismenya jika saya ingin berkontribusi?</b>
 
