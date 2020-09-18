@@ -5,7 +5,7 @@
 <h4 align='center'>All open source project</h4>
 
 <p align='center'>
-<img src='https://github.com/haxorsprogramming/Haxors-Contributors/blob/master/haxors_project/cover.png?raw=true' width='1300'>
+<img src='http://asset.justhasnah.my.id/screenshoot/Logo_Project/cover.png' width='1300'>
 </p>
 
 # Haxors-Contributors
