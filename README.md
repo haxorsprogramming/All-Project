@@ -60,7 +60,7 @@ Teman teman yang memberi dukungan untuk haxors.
 >> <li> Teman teman akan mendapatkan informasi update seputar perkembangan project project haxorsprogramming</li>
 >> <li> Teman teman dapat mengusulkan fitur/aplikasi baru yang akan didiskusikan untuk pengembangan selanjutnya</li>
 >> <li> Teman teman akan mendapatkan space gratis di server haxorsprogramming untuk menghostingkan aplikasi sesuai permintaan</li>
->> <li> Bagi teman teman yang memberikan support donasi ke kita di atas Rp. 500,000 (baik uang maupun dukungan insfrastuktur yang senilai cth server, hardware, dll), akan kita berikan sertifikat kontribusi fisik ke teman teman</li>
+>> <li> Bagi teman teman yang memberikan support donasi ke kita di atas Rp. 500,000 (baik uang maupun dukungan insfrastuktur yang senilai cth server, hardware, dll), akan kita berikan sertifikat kontribusi fisik ke teman teman, dan akan kita full support untuk customisasi aplikasi sesuai permintaan</li>
 
 <b>Kemana donasi tiap kontributor digunakan?</b>
 
