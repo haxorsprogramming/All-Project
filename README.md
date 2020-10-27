@@ -81,7 +81,7 @@ https://saweria.co/donate/haxorsprogramming</h3>
 <h3>Rekening Donasi (Silahkan kontak kami)</h3>
 
 Contact haxors 
-WhatsApp : 082272177022 (Hasnah) Slow respond | 083167589015 (Anna) Fast respond 
+WhatsApp : 082272177022 
 
-Email : alditha.forum@gmail.com
+Email : alditha.forum@gmail.com - hasnahardita@merahputih.id
 
