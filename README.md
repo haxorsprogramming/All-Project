@@ -30,7 +30,7 @@ Teman teman yang memberi dukungan untuk haxors.
   <td>Jevon Christian</td><td>Riyan R. Tambunan</td><td>Nanang WS Wimbadi</td><td>Fitri Aulia</td><td>Putri Rezkiyah</td>
   </tr>
  <tr>
-  <td>Asep Nugraha</td><td>Riyona Hidayati</td><td></td><td></td><td></td>
+  <td>Asep Nugraha</td><td>Riyona Hidayati</td><td>Fauzan Irsyad</td><td>Feby Annastasya</td><td></td>
   </tr>
  <tr>
   <td></td><td></td><td></td><td></td><td></td>
