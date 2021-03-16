@@ -11,7 +11,7 @@
 # Haxors-Contributors
 Teman teman yang memberi dukungan untuk haxors.
 
-<h4>Donasi (Saweria & Direct)</h4>
+<h4>Mitra Tetap</h4>
 
 <table>
  <tr>
