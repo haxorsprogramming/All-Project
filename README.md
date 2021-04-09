@@ -36,7 +36,7 @@ Teman teman yang memberi dukungan untuk haxors.
   <td>Shitia Putri Hasibuan</td><td>Dadali Jarwis</td><td>Aprilia Naomi K.</td><td>Lutfi Widya Aziz</td><td>Fitri Suryani</td>
   </tr> 
  <tr>
-  <td>Ongky Jaya</td><td></td><td></td><td></td><td></td>
+  <td></td><td></td><td></td><td></td><td></td>
   </tr>
 </table>
 
