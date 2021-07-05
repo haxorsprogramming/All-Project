@@ -42,12 +42,6 @@ Teman teman yang memberi dukungan untuk haxors.
 
 <small><i>Data di update seminggu sekali</i></small>
 
-<h4>Code Analist & Debugging</h4>
-
-- Adi Syahputro
-- Adam Falizufa
-- Ahmad Fauzan
-
 <h4>F.A.Q</h4>
 
 <b>Apasih haxors contributors itu?</b> 
@@ -68,17 +62,12 @@ Teman teman yang memberi dukungan untuk haxors.
 >> <li> Teman teman akan mendapatkan informasi update seputar perkembangan project project haxorsprogramming</li>
 >> <li> Teman teman dapat mengusulkan fitur/aplikasi baru yang akan didiskusikan untuk pengembangan selanjutnya</li>
 >> <li> Teman teman akan mendapatkan space gratis di server haxorsprogramming untuk menghostingkan aplikasi sesuai permintaan</li>
->> <li> Bagi teman teman yang memberikan support donasi ke kita di atas Rp. 500,000 (baik uang maupun dukungan insfrastuktur yang senilai cth server, hardware, dll), akan kita berikan sertifikat kontribusi fisik ke teman teman, dan akan kita full support untuk customisasi aplikasi sesuai permintaan</li>
 
 <b>Kemana donasi tiap kontributor digunakan?</b>
 
 >> <li> Untuk operasional komunitas</li>
 >> <li> Pembelian modul belajar</li>
->> <li> Setiap bulan, 10% dari total donasi disumbangkan ke <a href='https://donasi.dompetdhuafa.org/'>Dompet Dhuafa</a></li>
 
-<b>Bagaimana mekanismenya jika saya ingin berkontribusi?</b>
-
->> Apabila anda ingin berkontribusi dalam bentuk donasi, kami akan menghubungi anda setelah anda memberikan donasi dan memberikan pilihan apakah ingin bergabung ke grup kontributor haxors (telegram) untuk sharing masalah pengembangan haxors, anda juga dapat mengajukan pengembangan aplikasi baru disana. Jika ingin memberikan kontribusi dalam bidang code analist, debugging, dll yang berhubungan dengan teknik aplikasi" haxors, anda dapat menghubungi kami dibawah dan akan kami invite ke grup kontributors haxors. 
 
 Silahkan subs channel Haxors Update di telegram untuk mendapatkan informasi terbaru seputar perkembangan aplikasi" yang sedang dikembangkan oleh haxorsprogramming : 
 <h3><a href='https://t.me/haxorsupdate'>Channel Telegram Haxorsprogramming</a></h3>
