@@ -9,38 +9,6 @@
 </p>
 
 # Haxors-Contributors
-Teman teman yang memberi dukungan untuk haxors.
-
-<h4>Mitra Tetap</h4>
-
-<table>
- <tr>
-   <td>Cristian Suwandi</td><td>Naomi K. Fitriani</td><td>Hery Syahputra (Apple Net)</td><td>Darwin Bangun</td><td>Sulaiman(LKP Friendship.com)</td>
-  </tr>
- <tr>
-  <td>Agus Siddik</td><td>Arifa Saadah</td><td>Rini Fadillah</td><td>Bagas Kurniawan</td><td>M. Kholik Ridho</td>  
- </tr>
- <tr>
-  <td>Hengky (Uspatih Studio)</td><td> - </td><td>Raihan Al Farid</td><td>M. Agung Pratama</td><td>Surya Affandi (B & B Ponsel)</td>
-  </tr>
-  <tr>
-  <td>Rida Nasution</td><td>Zulhamdani</td><td>Ahmad Putra Siregar</td><td>Syaiful Amri</td><td>Reza Hamzani</td>
-  </tr>
- <tr>
-  <td>Jevon Christian</td><td>Riyan R. Tambunan</td><td>Nanang WS Wimbadi</td><td>Fitri Aulia</td><td>Putri Rezkiyah</td>
-  </tr>
- <tr>
-  <td>Asep Nugraha</td><td>Riyona Hidayati</td><td>Fauzan Irsyad</td><td>Feby Annastasya</td><td>M. Ridwan Daud</td>
-  </tr>
- <tr>
-  <td>Shitia Putri Hasibuan</td><td>Dadali Jarwis</td><td>Aprilia Naomi K.</td><td>Lutfi Widya Aziz</td><td>Fitri Suryani</td>
-  </tr> 
- <tr>
-  <td></td><td></td><td></td><td></td><td></td>
-  </tr>
-</table>
-
-<small><i>Data di update seminggu sekali</i></small>
 
 <h4>F.A.Q</h4>
 
